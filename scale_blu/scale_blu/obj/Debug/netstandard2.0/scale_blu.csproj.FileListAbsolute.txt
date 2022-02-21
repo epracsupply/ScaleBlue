@@ -1,0 +1,15 @@
+C:\Proyectos\eflowcr\UTH\scale\scale_blu\scale_blu\scale_blu\bin\Debug\netstandard2.0\scale_blu.deps.json
+C:\Proyectos\eflowcr\UTH\scale\scale_blu\scale_blu\scale_blu\bin\Debug\netstandard2.0\scale_blu.dll
+C:\Proyectos\eflowcr\UTH\scale\scale_blu\scale_blu\scale_blu\bin\Debug\netstandard2.0\ref\scale_blu.dll
+C:\Proyectos\eflowcr\UTH\scale\scale_blu\scale_blu\scale_blu\bin\Debug\netstandard2.0\scale_blu.pdb
+C:\Proyectos\eflowcr\UTH\scale\scale_blu\scale_blu\scale_blu\obj\Debug\netstandard2.0\scale_blu.csproj.AssemblyReference.cache
+C:\Proyectos\eflowcr\UTH\scale\scale_blu\scale_blu\scale_blu\obj\Debug\netstandard2.0\scale_blu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\eflowcr\UTH\scale\scale_blu\scale_blu\scale_blu\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Proyectos\eflowcr\UTH\scale\scale_blu\scale_blu\scale_blu\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Proyectos\eflowcr\UTH\scale\scale_blu\scale_blu\scale_blu\obj\Debug\netstandard2.0\scale_blu.AssemblyInfoInputs.cache
+C:\Proyectos\eflowcr\UTH\scale\scale_blu\scale_blu\scale_blu\obj\Debug\netstandard2.0\scale_blu.AssemblyInfo.cs
+C:\Proyectos\eflowcr\UTH\scale\scale_blu\scale_blu\scale_blu\obj\Debug\netstandard2.0\scale_blu.csproj.CoreCompileInputs.cache
+C:\Proyectos\eflowcr\UTH\scale\scale_blu\scale_blu\scale_blu\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Proyectos\eflowcr\UTH\scale\scale_blu\scale_blu\scale_blu\obj\Debug\netstandard2.0\scale_blu.dll
+C:\Proyectos\eflowcr\UTH\scale\scale_blu\scale_blu\scale_blu\obj\Debug\netstandard2.0\ref\scale_blu.dll
+C:\Proyectos\eflowcr\UTH\scale\scale_blu\scale_blu\scale_blu\obj\Debug\netstandard2.0\scale_blu.pdb

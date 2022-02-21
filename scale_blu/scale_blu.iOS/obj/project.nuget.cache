@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "W+MhzYIe3aCTQu2OBLPxyPaEwX5+t2E4fjhtQ8crCpX9GWwymNJLaDDwF8kjBVNCYAFqnwUKufoEbKG7NLSSWg==",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\eflowcr\\UTH\\scale\\scale_blu\\scale_blu\\scale_blu.iOS\\scale_blu.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ehite\\.nuget\\packages\\plugin.ble\\2.1.2\\plugin.ble.2.1.2.nupkg.sha512",
+    "C:\\Users\\ehite\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\ehite\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\ehite\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

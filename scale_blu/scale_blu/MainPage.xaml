@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="scale_blu.MainPage">
+
+    <StackLayout>
+
+        <StackLayout Padding="16"  Orientation="Vertical" >
+            <Label x:Name="ItemCode" FontSize="22"/>
+            <Label x:Name="ItemName"  FontSize="22"/>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Cantidad pedida -->" FontSize="22" />
+                <Label x:Name="Quantity"  FontSize="22"/>
+            </StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Peso teórico -->" FontSize="22" />
+                <Label x:Name="TotalWeight"  FontSize="22"/>
+            </StackLayout>
+        </StackLayout>
+
+
+        <Label Text="Aquí peso" x:Name="PesoLabel" FontSize="40"/>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Peso alisto -->" FontSize="22" />
+            <Label x:Name="PickingWeight"  FontSize="22"/>
+        </StackLayout>
+
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Cantidad alisto -->" FontSize="22" />
+            <Label x:Name="PickingQuantity"  FontSize="22"/>
+        </StackLayout>
+
+        <StackLayout>
+
+
+            <!--
+            <ListView x:Name="DevicesList"                       
+                      CachingStrategy="RecycleElement"
+                      ItemSelected="DevicesList_ItemSelected"
+                      >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding Name}"></Label>
+                                <Label Text="{Binding Address}" ></Label>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+            -->
+
+
+
+            <Button Text="27" Clicked="Button_Clicked"/>
+
+
+            <Button Text="15" Clicked="Button_Clicked_1"/>
+
+            <Button Text="Siguiente" x:Name="NextPick" IsEnabled="False" Clicked="Button_Clicked_2"/>
+
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
